@@ -1,0 +1,17 @@
+{
+  "name": "Dylandos Ultimate Proxy Suite",
+  "short_name": "Proxy Suite",
+  "description": "A world-class proxy management tool. Features a high-speed, multi-source proxy scraper; a dual-mode intensive and ultra-fast proxy checker; and a persistent local database for storing and re-validating your curated proxy lists.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ]
+}
